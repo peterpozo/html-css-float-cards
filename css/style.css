@@ -47,6 +47,7 @@ a{
     font-family:'Roboto', sans-serif; 
     text-decoration: none;
 }
+
 img{
     width: 100px;
     float: left;
@@ -58,8 +59,8 @@ img{
 	margin: 1rem;
 	background-color: black;
     box-shadow: 5px 5px 10px #888888;
-	
 }
+
 .inside-box{
     margin-left: 115px;
 }
