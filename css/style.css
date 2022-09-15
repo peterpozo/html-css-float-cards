@@ -1,0 +1,64 @@
+*{
+box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 'Fredoka One', cursive;
+    color: white;
+}
+
+.container{
+    max-width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1{
+    color: #e53170;
+    text-align: center;
+}
+
+.introduzione{
+ color: #0d0d14;
+ font-family: 'Roboto', sans-serif;
+ text-align: center;
+}
+
+.first-p{
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+h2{
+font-size: 20px;
+margin-bottom: 0px;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a{
+    color: #53adc9;
+    font-family:'Roboto', sans-serif; 
+    text-decoration: none;
+}
+img{
+    width: 100px;
+    float: left;
+}
+
+.box1{
+    float: left;
+	width: calc(33% - 2rem);
+	margin: 1rem;
+	background-color: black;
+	
+}
+.inside-box{
+    margin-left: 115px;
+}
